@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\LibraryManagementApi.csproj": {}
+    "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\LibraryManagementApi.csproj": {}
   },
   "projects": {
-    "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\LibraryManagementApi.csproj": {
+    "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\LibraryManagementApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\LibraryManagementApi.csproj",
+        "projectUniqueName": "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\LibraryManagementApi.csproj",
         "projectName": "LibraryManagementApi",
-        "projectPath": "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\LibraryManagementApi.csproj",
+        "projectPath": "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\LibraryManagementApi.csproj",
         "packagesPath": "C:\\Users\\JMadhusoodhanan\\.nuget\\packages\\",
-        "outputPath": "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\obj\\",
+        "outputPath": "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JMadhusoodhanan\\AppData\\Roaming\\NuGet\\NuGet.Config",

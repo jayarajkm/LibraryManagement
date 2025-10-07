@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GjDzbb59VWpFOOw7X+4SDwQdG5qNUPmwj0RHJPFLOBk=",
+  "Hash": "UI4TjcXWvF2UMYBhRSqAe0l2y1xEFnWf7y46mjBsCx8=",
   "Source": "LibraryManagementApi",
   "BasePath": "_content/LibraryManagementApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LibraryManagementApi\\wwwroot",
       "Source": "LibraryManagementApi",
-      "ContentRoot": "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\wwwroot\\",
+      "ContentRoot": "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\wwwroot\\",
       "BasePath": "_content/LibraryManagementApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\wwwroot\\.gitkeep",
+      "Identity": "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\wwwroot\\.gitkeep",
       "SourceId": "LibraryManagementApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\D Drive files\\Old File\\My Documents\\Desktop\\JAYARAJ_Library\\LibraryManagementApi\\wwwroot\\",
+      "ContentRoot": "C:\\D Drive files\\Library Managemnet\\LibraryManagement\\LibraryManagementApi\\wwwroot\\",
       "BasePath": "_content/LibraryManagementApi",
       "RelativePath": ".gitkeep",
       "AssetKind": "All",
